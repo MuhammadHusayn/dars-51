@@ -1,0 +1,37 @@
+[
+    {
+        "userId": 1,
+        "username": "Sobir",
+        "contact": "998941049914"
+    },
+    {
+        "userId": 2,
+        "username": "Rahim",
+        "contact": "998941049914"
+    },
+    {
+        "userId": 3,
+        "username": "Ilhom",
+        "contact": "998941049914"
+    },
+    {
+        "userId": 4,
+        "username": "ali",
+        "contact": "998941025678"
+    },
+    {
+        "userId": 5,
+        "username": "alisher",
+        "contact": "998974012356"
+    },
+    {
+        "userId": 6,
+        "username": "hikmat",
+        "contact": "998971020645"
+    },
+    {
+        "userId": 11,
+        "username": "aaj",
+        "contact": "998971023645"
+    }
+]
